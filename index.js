@@ -1,0 +1,1 @@
+const FeaturePage = () => import('@/views/FeaturePage.vue');
